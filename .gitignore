@@ -1,0 +1,6 @@
+notes.md
+codealike.json
+.vscode/
+__pycache__/
+.venv/
+backend/app/__pycache__/
